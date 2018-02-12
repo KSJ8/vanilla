@@ -40,7 +40,7 @@ THE SOFTWARE.
 			android:layout_marginLeft="8dip"
 			android:layout_marginTop="2dip"
 			android:layout_marginBottom="2dip"
-			android:src="@mipmap/icon" />
+			android:src="@mipmap/ic_launcher" />
 		<TextView
 			android:id="@+id/filepath"
 			android:visibility="gone"
